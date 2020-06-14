@@ -30,7 +30,7 @@ email: tomasz@bujny.eu
 #github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
